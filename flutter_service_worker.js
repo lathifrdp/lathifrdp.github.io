@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "aa895d921506c09ba0773c2d4ddeb270",
-"index.html": "638a0620d329c892b46a620ee230ee80",
-"/": "638a0620d329c892b46a620ee230ee80",
-"main.dart.js": "af82bfdc972c8e503ec522437a262c35",
+"index.html": "e4bb04e7913e6e7703ff3d4d3ca289ff",
+"/": "e4bb04e7913e6e7703ff3d4d3ca289ff",
+"main.dart.js": "aed1951a94bca6a36722aab081c44b7d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -72,7 +72,7 @@ const RESOURCES = {
 "assets/images/edaran_off.png": "58c8be68ae6ec7088a0dc0a9777a4a09",
 "assets/images/edaran_on.png": "652b166fe1911ad17479c5b8213d9e59",
 "assets/AssetManifest.json": "3326ecc250411b292a85500f76b9746e",
-"assets/NOTICES": "9566cc55c231cac3cfa080206e80249d",
+"assets/NOTICES": "927f5801b86e3c981fe1c2e2f465d191",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
